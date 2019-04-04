@@ -8,5 +8,5 @@ Student.sol
 
 
 # Dependencies
-npm install --save solc@0.4.17
+npm install --save solc@0.4.17__
 npm install --global --production windows-build-tools
