@@ -9,4 +9,6 @@ Student.sol
 
 # Dependencies
 npm install --save solc@0.4.17 <br/>
-npm install --global --production windows-build-tools
+npm install --global --production windows-build-tools <br/>
+npm install --save mocha ganache-cli web3@1.0.0-beta.26 <br/>
+
