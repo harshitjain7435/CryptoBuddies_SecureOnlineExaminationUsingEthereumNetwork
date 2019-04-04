@@ -5,3 +5,8 @@ The main purpose of this project is to provide a secure online exam system using
 
 # Contracts 
 Student.sol 
+
+
+# Dependencies
+npm install --save solc@0.4.17
+npm install --global --production windows-build-tools
