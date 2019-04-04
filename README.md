@@ -4,7 +4,7 @@ The main purpose of this project is to provide a secure online exam system using
 
 
 # Contracts 
-Student.sol 
+Contract/Exam.sol 
 
 
 # Dependencies
